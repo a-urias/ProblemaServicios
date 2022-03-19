@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "tipodeQueja": "electricidad",
+        "Colonia": "compuertas",
+        "Fecha": "enero 1, 2022"
+    },
+
+    {
+        "id": "2",
+        "tipodeQueja": "agua",
+        "Colonia": "hidalgo",
+        "Fecha": "febrero 26, 2022"
+    },
+
+    {
+        "id": "3",
+        "tipodeQueja": "telefono",
+        "Colonia": "compuertas, hidalgo, alamitos",
+        "Fecha": "marzo 2, 2022"
+    }
+]
